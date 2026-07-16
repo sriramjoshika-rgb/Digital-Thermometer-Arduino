@@ -1,0 +1,6 @@
+Arduino Uno
+LM35 Temperature Sensor
+Breadboard
+Jumper Wires
+USB Cable
+Arduino IDE
